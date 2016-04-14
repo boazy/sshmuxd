@@ -10,7 +10,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/joushou/sshmux"
+	"github.com/boazy/sshmux"
 
 	"golang.org/x/crypto/ssh"
 )
